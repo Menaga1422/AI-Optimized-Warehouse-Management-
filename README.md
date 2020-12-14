@@ -1,2 +1,2 @@
-# AI-Optimized-Warehouse-Management-
+# AI-Optimized-Warehouse-Management
 
